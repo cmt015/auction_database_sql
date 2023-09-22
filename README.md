@@ -1,2 +1,6 @@
 # auction_database_sql
-A project I worked on for Database Systems class. Designed, Implemented and Queried a database for an auction house in SQL. 
+Project for Database Systems class. The project requires one to design and create a database for an imaginary client, with at least 10 entities and 20 relations. Project requirements include:
+* Identify requirements and constraints for the database
+* Design an ER Model and Relational Model for the database
+* Create a Data Dictionary for the database
+* Create, populate, and query the database in SQL
